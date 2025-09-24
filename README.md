@@ -1,8 +1,10 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Vishnu%20selvaraj&section=header&animation=scaleIn&textBg=false&desc=Sotware%20Engineer-Data&fontAlignY=36&fontAlign=50&descAlign=50&descAlignY=56" width="100%"/>
 </div>
-## Hi there 👋
-This is Vishnu. 
+
+## 🚀 About Me
+<p align="left">
+    Hi there 👋! This is Vishnu. 
  - 🔭 Currently working as a Software Engineer-Data. 
  - 👯 I’m looking to collaborate on building a microservice platform. Please feel to reach out to me! Let us have good learning.
  - 💬 Ask me about DSA, Back-end, Cloud, Distributed System.
@@ -10,6 +12,7 @@ This is Vishnu.
  - 🔍 I love to solve data problems to provide accurate and reliable data.
  - 💡 Duplication in my work motivates me to think out-of-the-box to create a way to automate that process.
  - 💻 I write clean code to promote better understanding and visibility for others.
+</p>
 
 ## Technology Skills
 Java, Hadoop, YARN, MapReduce, Apache Spark, Google Cloud Platform(GCP), RDBMS, Redis, Cassandra, Kafka, Spark Streaming, MongoDB, Docker, Kubernetes, Scheduler tools.
