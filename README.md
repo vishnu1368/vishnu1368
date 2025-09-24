@@ -85,12 +85,16 @@ Microservices, Event-driven Architecture, API, Cloud, Big Data
   <a href="https://www.linkedin.com/in/vishnu-s-480083190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Vishnu_Jupiter/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" />
+  </a>
 </p>
 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer" width="100%"/>
 </div>
+
 
 <!--
 **vishnu1368/vishnu1368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
