@@ -4,8 +4,7 @@
 
 ## 🚀 About Me
 <ul align="left">
-
-    # Hi there 👋! This is Vishnu.
+    Hi there 👋! This is Vishnu.
  <li> 🔭 Currently working as a Software Engineer-Data.</li> 
  <li>  👯 I’m looking to collaborate on building a microservice platform. Please feel to reach out to me! Let us have good learning.</li>
  <li>  💬 Ask me about DSA, Back-end, Cloud, Distributed System.</li>
@@ -16,11 +15,18 @@
 </ul>
 
 ## Technology Skills
-Java, Hadoop, YARN, MapReduce, Apache Spark, Google Cloud Platform(GCP), RDBMS, Redis, Cassandra, Kafka, Spark Streaming, MongoDB, Docker, Kubernetes, Scheduler tools.
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim" />
+</p>
+
+Java, Hadoop, YARN, MapReduce, Apache Spark, Apache Hive, Google Cloud Platform(GCP), RDBMS, Redis, Cassandra, Apache Kafka, Spark Streaming, MongoDB, Docker, Kubernetes, Scheduler tools.
 
 ## Learnings
-High Level Design (HLD) and Low Level Design (LLD) to improve my designing skills in building a high performance and scalable system.
-To get deep understanding about the technologies, I'm actively putting my efforts in reading the Distributed System concepts.
+<ul align="left">
+<li>High Level Design (HLD) and Low Level Design (LLD) to improve my designing skills in building a high performance and scalable system.</li>
+<li>To get deep understanding about the technologies, I'm actively putting my efforts in reading the Distributed System concepts.</li>
+</ul>
 
 ## Interest
 Microservices, Event-driven Architecture, API, Cloud, Big Data
