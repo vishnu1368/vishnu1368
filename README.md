@@ -6,7 +6,7 @@
 <ul align="left">
     Hi there 👋! This is Vishnu.
  <li> 🔭 Currently working as a Software Engineer-Data.</li> 
- <li>  👯 I’m looking to collaborate on building a microservice platform. Please feel to reach out to me! Let us have good learning.</li>
+ <li>  👯 I’m looking to collaborate on building a microservice platform through Sprint Boot framework. Please feel to reach out to me! Let us have good learning.</li>
  <li>  💬 Ask me about DSA, Back-end, Cloud, Distributed System.</li>
  <li>  ⚙️ I always believe in "keep it simple but efficient" principle.</li>
  <li>  🔍 I love to solve data problems to provide accurate and reliable data.</li>
@@ -79,8 +79,18 @@ Hadoop, YARN, MapReduce, Apache Spark, Apache Hive,Spark Streaming, Scheduler to
 ## Interest
 Microservices, Event-driven Architecture, API, Cloud, Big Data
 
+## Social Link
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnu-s-480083190/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer" width="100%"/>
+</div>
 
 <!--
 **vishnu1368/vishnu1368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
