@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Vishnu%20selvaraj&section=header&animation=scaleIn&textBg=false&desc=Sotware%20Engineer-Data&fontAlignY=36&fontAlign=50&descAlign=50&descAlignY=56" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=0:9CB1D6,100:70A4CE&text=Vishnu%20selvaraj&section=header&animation=scaleIn&textBg=false&desc=Sotware%20Engineer-Data&fontAlignY=36&fontAlign=50&descAlign=50&descAlignY=56" width="100%"/>
 </div>
 
 ## 🚀 About Me
@@ -92,7 +92,7 @@ Microservices, Event-driven Architecture, API, Cloud, Big Data
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:9CB1D6,100:70A4CE&section=footer" width="100%"/>
 </div>
 
 
