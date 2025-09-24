@@ -16,11 +16,59 @@
 
 ## Technology Skills
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim" />
-</p>
+<table align="center">
 
-Java, Hadoop, YARN, MapReduce, Apache Spark, Apache Hive, Google Cloud Platform(GCP), RDBMS, Redis, Cassandra, Apache Kafka, Spark Streaming, MongoDB, Docker, Kubernetes, Scheduler tools.
+<tr>
+<td valign="top" width="33%">
+
+### Front End
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,js,css&perline=3" alt="Front-End" />
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### Back End
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,kafka,spring&perline=3" alt="Back-End" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### DevOps & Infrastructure
+<div align="center">
+<img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker&perline=4" alt="DevOps Skills" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### Database & Storage
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra,redis&perline=4" alt="Database Skills" />
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+### Tools & Platforms
+<div align="center">
+<img src="https://skillicons.dev/icons?i=idea,vscode,github,linux,vim&perline=5" alt="Tools Skills" />
+</div>
+
+</td>
+</tr>
+</table>
+
+#### Big Data technologies
+Hadoop, YARN, MapReduce, Apache Spark, Apache Hive,Spark Streaming, Scheduler tools.
 
 ## Learnings
 <ul align="left">
