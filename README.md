@@ -3,16 +3,17 @@
 </div>
 
 ## 🚀 About Me
-<p align="left">
-    Hi there 👋! This is Vishnu. 
- - 🔭 Currently working as a Software Engineer-Data. 
- - 👯 I’m looking to collaborate on building a microservice platform. Please feel to reach out to me! Let us have good learning.
- - 💬 Ask me about DSA, Back-end, Cloud, Distributed System.
- - ⚙️ I always believe in "keep it simple but efficient" principle.
- - 🔍 I love to solve data problems to provide accurate and reliable data.
- - 💡 Duplication in my work motivates me to think out-of-the-box to create a way to automate that process.
- - 💻 I write clean code to promote better understanding and visibility for others.
-</p>
+<ul align="left">
+
+    # Hi there 👋! This is Vishnu.
+ <li> 🔭 Currently working as a Software Engineer-Data.</li> 
+ <li>  👯 I’m looking to collaborate on building a microservice platform. Please feel to reach out to me! Let us have good learning.</li>
+ <li>  💬 Ask me about DSA, Back-end, Cloud, Distributed System.</li>
+ <li>  ⚙️ I always believe in "keep it simple but efficient" principle.</li>
+ <li>  🔍 I love to solve data problems to provide accurate and reliable data.</li>
+ <li>  💡 Duplication in my work motivates me to think out-of-the-box to create a way to automate that process.</li>
+ <li>  💻 I write clean code to promote better understanding and visibility for others.</li>
+</ul>
 
 ## Technology Skills
 Java, Hadoop, YARN, MapReduce, Apache Spark, Google Cloud Platform(GCP), RDBMS, Redis, Cassandra, Kafka, Spark Streaming, MongoDB, Docker, Kubernetes, Scheduler tools.
